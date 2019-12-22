@@ -2,7 +2,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 import static java.lang.StrictMath.sqrt;
-import static java.lang.System.exit;
 
 public class PyramidWord {
     // The time complexity is O(n), where n is the length of word.
